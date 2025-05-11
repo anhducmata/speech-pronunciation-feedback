@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# Mac & Unix
+.DS_Store
+
+# Logs and cache
+*.log
+.cache/
+
+# VS Code
+.vscode/
+
+# Temp directories
+/tmp
+*.TextGrid
+aligned_output/
+
+# Python-specific
+*.egg-info/
+dist/
+build/
