@@ -17,8 +17,8 @@ This project is a FastAPI-based web service that analyzes English speech recordi
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/anhducmata/speech-feedback-api.git
-cd speech-feedback-api
+git clone https://github.com/anhducmata/speech-pronunciation-feedback.git
+cd speech-pronunciation-feedback
 ```
 
 ### 2. Install Dependencies
